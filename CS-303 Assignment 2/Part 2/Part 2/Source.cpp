@@ -1,3 +1,7 @@
+// A Chao Thao
+// CS-303 Assignment Part 2
+// 03/06/2023
+
 #include <iostream>
 using namespace std;
 #include "Employee.h"
