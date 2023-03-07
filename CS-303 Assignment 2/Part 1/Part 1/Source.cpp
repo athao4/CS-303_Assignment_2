@@ -1,3 +1,7 @@
+// A Chao Thao
+// CS-303 Assignment 2 Part 1
+// 03/06/2023
+
 #include <iostream>
 #include "SingleLinkedList.h"
 using namespace std;
